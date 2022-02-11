@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <vertx.version>3.8.4</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
         <main.class>id.lmnzr.example.cluster.Main</main.class>
     </properties>
 
